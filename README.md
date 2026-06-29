@@ -1,19 +1,75 @@
-# Getting Started
-Install the dependencies and run the project
-```
+# Purrfect Meme Picker 🐱😂
+
+Purrfect Meme Picker is a fun web app built with **Vite** that helps users browse and pick memes quickly.
+
+## ✨ Features
+
+- Browse a collection of memes
+- Select and preview memes easily
+- Fast development and build setup with Vite
+- Simple and clean project structure
+
+## 🚀 Getting Started
+
+### 1) Install dependencies
+
+```bash
 npm install
+```
+
+### 2) Run the development server
+
+```bash
 npm start
 ```
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+### 3) Open in browser
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+After the server starts, open the local URL shown in your terminal (usually `http://localhost:5173`).
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## 🛠️ Tech Stack
 
-Happy Coding!
+- **Vite**
+- **JavaScript**
+- **HTML/CSS**
+
+Learn more about Vite: https://vitejs.dev/
+
+## 📁 Project Structure
+
+```text
+purrfect-meme-picker/
+├── public/          # Static assets
+├── src/             # App source code
+├── index.html       # Entry HTML file
+├── package.json     # Scripts and dependencies
+└── README.md
+```
+
+## 📦 Available Scripts
+
+- `npm install` — installs project dependencies
+- `npm start` — starts the development server
+
+> If your project uses `npm run dev` instead, update the script command accordingly.
+
+## 🎯 Future Improvements
+
+- Add meme categories and filters
+- Add search by caption/tags
+- Add favorites/bookmarks
+- Add dark/light theme toggle
+- Add share/download options
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Open a pull request
+
+## 📄 License
+
+This project is open source and available under the MIT License (or your preferred license).
